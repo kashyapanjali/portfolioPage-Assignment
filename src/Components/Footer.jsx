@@ -10,7 +10,7 @@ import twitterIcon from "../images/socials/twitter.svg";
 
 const Footer = (props) => {
   const { email, gitHub, instagram, linkedIn, medium, name, primaryColor, twitter } = props;
-
+  // function return
   return (
     <div
       id="footer"
